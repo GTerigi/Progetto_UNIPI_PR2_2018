@@ -1,5 +1,6 @@
 # Progetto_UNIPI_PR2_2018
 IN FASE DI SVILUPPO
+
 Progetto del corso Programmazione 2 dell'Universita di Pisa, anno accademico 2018/2019
 
 Per gli studenti frequentanti il corso, è consigliabile visionare il progetto solo per vedere una possibile implementazione. Il copia-incolla di codice sorgente, è altamente sconsigliato. Non mi assumo nessuna responsabilita' di come userete questa implementazione del progetto.

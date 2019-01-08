@@ -1,5 +1,5 @@
 # Progetto_UNIPI_PR2_2018
-IN FASE DI SVILUPPO
+
 
 Progetto del corso Programmazione 2 dell'Universita di Pisa, anno accademico 2018/2019
 
